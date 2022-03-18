@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan actualizado",
+      "empresa": "cdg",
+      "email": "ale@correo.com",
+      "telefono": "4939",
+      "notas": "asasasa",
+      "id": 1
+    },
+    {
+      "nombre": "juan",
+      "empresa": "cdg",
+      "email": "ale@correo.com",
+      "telefono": "4939",
+      "notas": "asasasa",
+      "id": 2
+    },
+    {
+      "nombre": "alejandrita",
+      "empresa": "kfc",
+      "email": "ale@correo.com",
+      "telefono": "345",
+      "notas": "ccc",
+      "id": 4
+    }
+  ]
+}
